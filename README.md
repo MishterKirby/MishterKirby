@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- 🔭 I’m currently working on-->
-- 🌱 I’m currently learning Unity, Python, and Blender
+- 🌱 I’m currently learning Unity, Python, and Blender, and am dabbling in osu! development.
 <!-- 👯 I’m looking to collaborate on ...-->
 <!-- 🤔 I’m looking for help with ...-->
 <!-- 💬 Ask me about ...-->
