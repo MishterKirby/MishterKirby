@@ -1,10 +1,3 @@
-### Hi there 👋
+Hi! I’m MishterKirby! I’m a beginner game developer who is also passionate about art!
 
-<!-- 🔭 I’m currently working on-->
-- 🌱 I’m currently learning Unity, Python, and Blender, and am dabbling in osu! development.
-<!-- 👯 I’m looking to collaborate on ...-->
-<!-- 🤔 I’m looking for help with ...-->
-<!-- 💬 Ask me about ...-->
-<!-- 📫 How to reach me: Don't-->
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: You're on a rock, floating in space, floating in a sock, floating in rice. Pretty cool, huh?
+I’ve been juggling between honing my game dev skills, learning 2D art and practicing 3D modelling for a bit, though in no way would I call myself a master of any.
